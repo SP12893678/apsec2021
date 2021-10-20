@@ -366,3 +366,7 @@ header.masthead p {
 .bronze-badge{
   background: linear-gradient(90deg, rgba(196,114,0,1) 0%, rgba(157,108,31,1) 100%);
 }
+
+.gold-badge{
+  background: linear-gradient(90deg, rgba(255,212, 54,1) 0%, rgba(246, 159, 22,1) 100%);
+}
