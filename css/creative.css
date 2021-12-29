@@ -50,8 +50,12 @@ h6 {
   background-color: #43586d !important;
 }
 
-.bg-dark {
+/* .bg-dark {
   background-color: #212529 !important;
+} */
+
+.bg-dark {
+  background-color: #656a6f !important;
 }
 
 .text-faded {
